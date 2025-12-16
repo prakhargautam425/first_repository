@@ -1,4 +1,6 @@
 # first_repository
 This is my first repository
 <br>
-author - Prakhar Gautam
+author - Prakhar Gautam.
+<br>
+university- Galgotias University.
